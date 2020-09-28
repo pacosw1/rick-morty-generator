@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rick-morty-generator/static/css/main.71ded0da.chunk.css",
+    "main.js": "/rick-morty-generator/static/js/main.5f2af41e.chunk.js",
+    "main.js.map": "/rick-morty-generator/static/js/main.5f2af41e.chunk.js.map",
+    "runtime-main.js": "/rick-morty-generator/static/js/runtime-main.b964516e.js",
+    "runtime-main.js.map": "/rick-morty-generator/static/js/runtime-main.b964516e.js.map",
+    "static/js/2.a5c42eab.chunk.js": "/rick-morty-generator/static/js/2.a5c42eab.chunk.js",
+    "static/js/2.a5c42eab.chunk.js.map": "/rick-morty-generator/static/js/2.a5c42eab.chunk.js.map",
+    "index.html": "/rick-morty-generator/index.html",
+    "precache-manifest.45be818c224b7d3f376e439c6add60a2.js": "/rick-morty-generator/precache-manifest.45be818c224b7d3f376e439c6add60a2.js",
+    "service-worker.js": "/rick-morty-generator/service-worker.js",
+    "static/css/main.71ded0da.chunk.css.map": "/rick-morty-generator/static/css/main.71ded0da.chunk.css.map",
+    "static/js/2.a5c42eab.chunk.js.LICENSE.txt": "/rick-morty-generator/static/js/2.a5c42eab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b964516e.js",
+    "static/js/2.a5c42eab.chunk.js",
+    "static/css/main.71ded0da.chunk.css",
+    "static/js/main.5f2af41e.chunk.js"
+  ]
+}
